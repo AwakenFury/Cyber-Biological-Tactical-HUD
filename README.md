@@ -1,4 +1,4 @@
-![Cyber-Bio-Security](asset/BioTech_Firewall.jfif)
+![Cyber-Bio-Security](asset/FuguAlert.png)
 ![Status](https://img.shields.io/badge/status-experimental-red)
 ![ESP32](https://img.shields.io/badge/platform-ESP32-blue)
 
