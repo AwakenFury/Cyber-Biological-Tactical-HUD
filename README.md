@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://awakenfury.github.io/Cyber-Bio-Security/">
+  <a href="https://awakenfury.github.io/Ccyber-Biological-Tactical-HUD/">
     🌐 Live Demo
   </a>
 </p>
