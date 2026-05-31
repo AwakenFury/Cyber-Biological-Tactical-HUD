@@ -1,3 +1,18 @@
+![Cyber-Bio-Security](asset/BioTech_Firewall.jfif)
+![Status](https://img.shields.io/badge/status-experimental-red)
+![ESP32](https://img.shields.io/badge/platform-ESP32-blue)
+
+<p align="center"> 🧠 Cyber-Bio Security System </p>
+
+<p align="center"> A real-time cyber-biological visualization engine integrating human signals, smart environments, and network security.</center>
+
+
+<p align="center">
+  <a href="https://awakenfury.github.io/Cyber-Bio-Security/">
+    🌐 Live Demo
+  </a>
+</p>
+
 # Ccyber-Biological-Tactical-HUD
 A cyber-biological tactical HUD inspired by survival horror command systems. Features animated login sequences, RF triangulation radar, threat monitoring, terminal communications, telemetry dashboards, and immersive cyberpunk visual effects. Built with HTML, CSS, JavaScript, and Canvas as a foundation for future ESP32 and sensor integration.
 
